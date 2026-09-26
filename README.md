@@ -116,13 +116,14 @@ The models were evaluated on the held-out 20% test set (96 records).
 ```
 electric-vehicle-data-analysis/
 │
-├── electric_vehicles_spec_2025.csv
+├── Data_electric_vehicles.csv
 ├── electric_vehicle_analysis.ipynb
 ├── electric_vehicle_data_analysis_report.pdf
 ├── eda1.png
 ├── eda2.png
 ├── eda3.png
 ├── eda4.png
+├── model_results.csv
 └── README.md
 ```
 ### 🚀 How to Run
