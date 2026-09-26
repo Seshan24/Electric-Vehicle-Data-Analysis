@@ -26,46 +26,46 @@ Dataset: electric_vehicles_spec_2025.csv
 * Target variable: range_km
 
 ### 🛠️ Technologies Used
-
+```
 * Python
 * Pandas
 * NumPy
 * SciPy
 * Scikit-learn
 * Matplotlib
-
+```
 ### 🔄 Data Preprocessing
 
 The following preprocessing techniques were applied:
-
+```
 * Missing value handling using median and most-frequent imputation
 * Categorical variable encoding using One-Hot Encoding
 * Feature scaling using StandardScaler
 * Feature selection
 * Conversion of cargo volume into a numerical feature
 * 80/20 train-test split
-
+```
 ### 📈 Exploratory Data Analysis
 
 The project includes four visualizations:
-
+```
 1. Battery Capacity vs EV Range
 2. EV Range by Drivetrain
 3. Average Range by Brand
 4. Distribution of EV Range
-
-K### ey EDA Finding
+```
+### Exploratory data analysis Finding
 
 Battery capacity showed a strong positive relationship with EV range, with a Pearson correlation of r = 0.8804.
 
 ### 🧪 Hypothesis Testing
 
 #### 1. Pearson Correlation Test
-
+```
 H₀: There is no linear correlation between battery capacity and EV range.
 
 H₁: There is a linear correlation between battery capacity and EV range.
-
+```
 * Pearson correlation: r = 0.8804
 * p-value: 2.31 × 10⁻¹⁵⁶
 * Significance level: α = 0.05
@@ -75,11 +75,11 @@ Conclusion: Since p < 0.05, H₀ is rejected. The dataset shows a statistically 
 #### 2. Welch’s Independent Samples T-Test
 
 This test compares the mean EV range between SUV and Sedan vehicles.
-
+```
 H₀: The mean range of SUVs and Sedans is equal.
 
 H₁: The mean range of SUVs and Sedans is different.
-
+```
 * SUV mean range: 396.52 km
 * Sedan mean range: 496.83 km
 * t-statistic: -8.9138
@@ -93,17 +93,17 @@ Conclusion: Since p < 0.05, H₀ is rejected. The observed mean range differs si
 Two regression models were developed:
 
 #### 1. Linear Regression
-
+```
 * R² Score: 0.9695
 * MAE: 14.43 km
 * RMSE: 17.96 km
-
+```
 #### 2. Random Forest Regressor
-
+```
 * R² Score: 0.9632
 * MAE: 14.31 km
 * RMSE: 19.73 km
-
+```
 ### 📊 Model Performance
 
 Model	R² Score	MAE (km)	RMSE (km)
