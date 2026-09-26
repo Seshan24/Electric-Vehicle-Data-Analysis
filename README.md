@@ -124,6 +124,7 @@ electric-vehicle-data-analysis/
 ├── eda3.png
 ├── eda4.png
 ├── model_results.csv
+├── electric_vehicles_cleaned_fixed.csv
 └── README.md
 ```
 ### 🚀 How to Run
