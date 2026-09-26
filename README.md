@@ -1,11 +1,11 @@
-Electric Vehicle Data Analysis
+## Electric Vehicle Data Analysis
 
-📌 Project Overview
+### 📌 Project Overview
 
 This project analyzes an Electric Vehicle (EV) dataset using Python. The analysis covers data cleaning, preprocessing, exploratory data analysis (EDA), hypothesis testing, and machine learning models to predict EV driving range.
 
-🎯 Objectives
-
+### 🎯 Objectives
+```
 * Clean and prepare the EV dataset
 * Handle missing values
 * Encode categorical variables
@@ -15,17 +15,17 @@ This project analyzes an Electric Vehicle (EV) dataset using Python. The analysi
 * Conduct statistical hypothesis testing
 * Build and evaluate machine learning models
 * Predict EV range using vehicle specifications
-
-📊 Dataset
-
+```
+### 📊 Dataset
+```
 Dataset: electric_vehicles_spec_2025.csv
-
+```
 * Total records: 478
 * Training records: 382
 * Testing records: 96
 * Target variable: range_km
 
-🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 * Python
 * Pandas
@@ -34,7 +34,7 @@ Dataset: electric_vehicles_spec_2025.csv
 * Scikit-learn
 * Matplotlib
 
-🔄 Data Preprocessing
+### 🔄 Data Preprocessing
 
 The following preprocessing techniques were applied:
 
@@ -45,7 +45,7 @@ The following preprocessing techniques were applied:
 * Conversion of cargo volume into a numerical feature
 * 80/20 train-test split
 
-📈 Exploratory Data Analysis
+### 📈 Exploratory Data Analysis
 
 The project includes four visualizations:
 
@@ -54,13 +54,13 @@ The project includes four visualizations:
 3. Average Range by Brand
 4. Distribution of EV Range
 
-Key EDA Finding
+K### ey EDA Finding
 
 Battery capacity showed a strong positive relationship with EV range, with a Pearson correlation of r = 0.8804.
 
-🧪 Hypothesis Testing
+### 🧪 Hypothesis Testing
 
-1. Pearson Correlation Test
+#### 1. Pearson Correlation Test
 
 H₀: There is no linear correlation between battery capacity and EV range.
 
@@ -72,7 +72,7 @@ H₁: There is a linear correlation between battery capacity and EV range.
 
 Conclusion: Since p < 0.05, H₀ is rejected. The dataset shows a statistically significant positive relationship between battery capacity and EV range.
 
-2. Welch’s Independent Samples T-Test
+#### 2. Welch’s Independent Samples T-Test
 
 This test compares the mean EV range between SUV and Sedan vehicles.
 
@@ -88,23 +88,23 @@ H₁: The mean range of SUVs and Sedans is different.
 
 Conclusion: Since p < 0.05, H₀ is rejected. The observed mean range differs significantly between SUVs and Sedans in this dataset.
 
-🤖 Machine Learning Models
+### 🤖 Machine Learning Models
 
 Two regression models were developed:
 
-1. Linear Regression
+#### 1. Linear Regression
 
 * R² Score: 0.9695
 * MAE: 14.43 km
 * RMSE: 17.96 km
 
-2. Random Forest Regressor
+#### 2. Random Forest Regressor
 
 * R² Score: 0.9632
 * MAE: 14.31 km
 * RMSE: 19.73 km
 
-📊 Model Performance
+### 📊 Model Performance
 
 Model	R² Score	MAE (km)	RMSE (km)
 Linear Regression	0.9695	14.43	17.96
@@ -112,39 +112,37 @@ Random Forest	0.9632	14.31	19.73
 
 The models were evaluated on the held-out 20% test set (96 records).
 
-📁 Project Structure
-
+### 📁 Project Structure
+```
 electric-vehicle-data-analysis/
 │
 ├── electric_vehicles_spec_2025.csv
-├── electric_vehicles_cleaned.csv
-├── electric_vehicle_analysis.py
+├── electric_vehicle_analysis.ipynb
 ├── electric_vehicle_data_analysis_report.pdf
 ├── eda1.png
 ├── eda2.png
 ├── eda3.png
 ├── eda4.png
 └── README.md
-
-🚀 How to Run
+```
+### 🚀 How to Run
 
 1. Clone the repository
-
+```
 git clone https://github.com/your-username/electric-vehicle-data-analysis.git
 cd electric-vehicle-data-analysis
-
+```
 2. Install dependencies
-
+```
 pip install pandas numpy scipy scikit-learn matplotlib
-
+```
 3. Run the analysis
-
-python electric_vehicle_analysis.py
-
-📌 Conclusion
+```
+electric_vehicle_analysis.ipynb
+```
+### 📌 Conclusion
 
 This project demonstrates a complete data analysis and machine learning workflow using an Electric Vehicle dataset. The analysis includes data cleaning, preprocessing, visualization, statistical hypothesis testing, and EV range prediction using Linear Regression and Random Forest models.
 
-👨‍💻 Author
+### 👨‍💻 Author
 
-Seshan Nimsath
