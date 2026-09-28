@@ -123,8 +123,10 @@ electric-vehicle-data-analysis/
 ├── eda2.png
 ├── eda3.png
 ├── eda4.png
+├── pairplot.png
+├── Correlation Heatmap.png
+├── Decisition Tree Classifier.png
 ├── model_results.csv
-├── electric_vehicles_cleaned_fixed.csv
 └── README.md
 ```
 ### 🚀 How to Run
