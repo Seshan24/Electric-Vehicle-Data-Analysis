@@ -152,4 +152,13 @@ This project demonstrates a complete data analysis and machine learning workflow
 
 **Seshan Rodrigo** Undergraduate BSc (Hons) in Computer Science with Artificial Intelligence
 
+- LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/seshan-rodrigo-1279ba2b6/)
+- GitHub: [https://github.com/yourusername](https://github.com/Seshan24)
+  
+---
+
 **Heshan Bandara** Undergraduate BSc (Hons) in Computer Science with Artificial Intelligence
+
+- LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/heshan-yapa-bandara-aa368a431/)
+- GitHub: [https://github.com/yourusername](https://github.com/Heshan-V)
+  
