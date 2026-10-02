@@ -150,3 +150,5 @@ This project demonstrates a complete data analysis and machine learning workflow
 
 ### 👨‍💻 Author
 
+**Seshan Rodrigo**
+**Heshan Bandara**
