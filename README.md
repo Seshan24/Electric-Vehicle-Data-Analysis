@@ -150,5 +150,6 @@ This project demonstrates a complete data analysis and machine learning workflow
 
 ### 👨‍💻 Author
 
-**Seshan Rodrigo**
-**Heshan Bandara**
+**Seshan Rodrigo** Undergraduate BSc (Hons) in Computer Science with Artificial Intelligence
+
+**Heshan Bandara** Undergraduate BSc (Hons) in Computer Science with Artificial Intelligence
