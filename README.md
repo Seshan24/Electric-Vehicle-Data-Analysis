@@ -175,5 +175,5 @@ The analysis can be used to understand important factors that influence electric
 **Heshan Bandara**
 
 - LinkedIn: [heshan-bandara](https://www.linkedin.com/in/heshan-yapa-bandara-aa368a431/)
-- GitHub: [Heshan-V]([https://github.com/Seshan24](https://github.com/Heshan-V))
+- GitHub: [Heshan-V](https://github.com/Heshan-V)
 ---
