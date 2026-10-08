@@ -162,3 +162,18 @@ Electric-Vehicle-Analysis/
 This project demonstrates a complete machine learning workflow including data cleaning, preprocessing, exploratory data analysis, statistical hypothesis testing, model development, and model evaluation.
 
 The analysis can be used to understand important factors that influence electric vehicle driving range and to build models that predict EV range using vehicle specifications.
+
+---
+
+## 👨‍💻 Authors
+
+**Seshan Rodrigo**
+
+- LinkedIn: [seshan-rodrigo](https://www.linkedin.com/in/seshan-rodrigo-1279ba2b6/)
+- GitHub: [Seshan24](https://github.com/Seshan24)
+
+**Heshan Bandara**
+
+- LinkedIn: [heshan-bandara](https://www.linkedin.com/in/heshan-yapa-bandara-aa368a431/)
+- GitHub: [Heshan-V]([https://github.com/Seshan24](https://github.com/Heshan-V))
+---
