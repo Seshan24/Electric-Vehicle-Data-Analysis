@@ -57,6 +57,7 @@ Two statistical hypothesis tests were performed.
 Purpose:
 To check whether battery capacity has a significant relationship with electric vehicle range.
 
+
 **Null Hypothesis (H0):**
 There is no significant linear relationship between battery capacity and EV range.
 
@@ -68,6 +69,7 @@ The p-value was used to decide whether to reject or fail to reject the null hypo
 ### Test 2 - Independent Samples T-Test
 Purpose:
 To test whether the average driving range of SUVs is significantly different from the average driving range of Sedans.
+
 
 **Null Hypothesis (H0):**
 The mean range of SUVs is equal to the mean range of Sedans.
