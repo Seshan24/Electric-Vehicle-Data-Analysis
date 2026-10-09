@@ -54,7 +54,6 @@ These visualizations help identify patterns, relationships, distributions, and c
 Two statistical hypothesis tests were performed.
 
 ### Test 1 - Pearson Correlation Test
-
 Purpose:
 To check whether battery capacity has a significant relationship with electric vehicle range.
 
@@ -67,7 +66,6 @@ There is a significant linear relationship between battery capacity and EV range
 The p-value was used to decide whether to reject or fail to reject the null hypothesis.
 
 ### Test 2 - Independent Samples T-Test
-
 Purpose:
 To test whether the average driving range of SUVs is significantly different from the average driving range of Sedans.
 
