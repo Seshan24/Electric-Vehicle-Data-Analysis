@@ -149,6 +149,8 @@ This project demonstrates a complete machine learning workflow including data cl
 The analysis can be used to understand important factors that influence electric vehicle driving range and to build models that predict EV range using vehicle specifications.
 
 ---
+Presnttion Repo Link : [presnttion](https://github.com/Seshan24/Numerical-Mathematics-EV-vehicle-analyzing-presentation-)
+---
 
 ## 👨‍💻 Authors
 
